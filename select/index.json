@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Collapse",
+  "base_artist": "ぼくのりりっくのぼうよみ",
+  "createdAt": "2026-02-26T14:20:52.280595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Before the Great Collapse",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/01_Before_the_Great_Collapse_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "'Till I Collapse",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_'Till_I_Collapse_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Till I Collapse",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/03_Till_I_Collapse_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Collapse",
+      "artist": "Zeds Dead feat. Memorecks",
+      "has_synced": true,
+      "path": "select/04_Collapse_Zeds_Dead_feat._Memorecks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Collapse (feat. Memorecks)",
+      "artist": "Zeds Dead",
+      "has_synced": true,
+      "path": "select/05_Collapse_(feat._Memorecks)_Zeds_Dead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Collapse and Appear",
+      "artist": "Lil Ugly Mane",
+      "has_synced": true,
+      "path": "select/06_Collapse_and_Appear_Lil_Ugly_Mane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Collapse the Walls",
+      "artist": "Mr. Lif",
+      "has_synced": false,
+      "path": "select/07_Collapse_the_Walls_Mr._Lif.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speed The Collapse",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/08_Speed_The_Collapse_Metric.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Till I Collapse",
+      "artist": "Eminem feat. Nate Dogg",
+      "has_synced": true,
+      "path": "select/09_Till_I_Collapse_Eminem_feat._Nate_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Great Collapse",
+      "artist": "Nine Inch Nails",
+      "has_synced": true,
+      "path": "select/10_The_Great_Collapse_Nine_Inch_Nails.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Events Leading up to the Collapse of Detective Dullight",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/11_The_Events_Leading_up_to_the_Collapse_of_Detective_Dullight_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Collapse Traditional (For Darling)",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/12_Collapse_Traditional_(For_Darling)_A_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Collapse of Histrory",
+      "artist": "Atari Teenage Riot",
+      "has_synced": false,
+      "path": "select/13_Collapse_of_Histrory_Atari_Teenage_Riot.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Think of Collapse",
+      "artist": "A Northern Chorus",
+      "has_synced": false,
+      "path": "select/14_Don't_Think_of_Collapse_A_Northern_Chorus.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Through This Collapse",
+      "artist": "Zanias",
+      "has_synced": true,
+      "path": "select/15_Through_This_Collapse_Zanias.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Let the Colony Collapse",
+      "artist": "Superorganism",
+      "has_synced": true,
+      "path": "select/16_Don't_Let_the_Colony_Collapse_Superorganism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Collapse",
+      "artist": "ぼくのりりっくのぼうよみ",
+      "has_synced": false,
+      "path": "select/pl_01_Collapse_ぼくのりりっくのぼうよみ.txt"
+    }
+  ]
+}
